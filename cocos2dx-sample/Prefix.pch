@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'cocos2dx-sample' target in the 'cocos2dx-sample' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
